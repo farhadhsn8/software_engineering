@@ -1,6 +1,6 @@
 # software_engineering
 
-use case diagram 
-communication diagram
-sequence diagram
-class diagram
+use case diagram </br>
+communication diagram </br>
+sequence diagram </br>
+class diagram </br>
