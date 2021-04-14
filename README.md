@@ -8,5 +8,8 @@ class diagram </br>
 ## phase 3 :</br>
 find non-functional requirements </br>
 design software architecture </br>
+## phase 4 :</br>
+detail design </br>
+
 
 
