@@ -12,6 +12,11 @@ design software architecture </br>
 detail design </br>
 ## phase 5 :</br>
 design user interface </br>
+## phase 6 :</br>
+implementation </br>
+## phase 7 :</br>
+
+
 
 
 
